@@ -1,10 +1,10 @@
 
-console.log(__dirname)
-console.log(__filename)
-var buff=new Buffer(10)
-console.log(buff)
-var a= new Buffer([10, 20, 30, 40, 50]);
-console.log(a)
+// console.log(__dirname)
+// console.log(__filename)
+// var buff=new Buffer(10)
+// console.log(buff)
+// var a= new Buffer([10, 20, 30, 40, 50]);
+// console.log(a)
 const os=require('os');  
 console.log("os.freemem(): \n",os.freemem());  
 console.log("os.homedir(): \n",os.homedir());  
