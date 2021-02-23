@@ -1,0 +1,122 @@
+{
+    "ae": {
+      "currency_code": "aed",
+      "cur_symbol": "AED",
+      "price": 2750
+    },
+    "au": {
+      "currency_code": "aud",
+      "cur_symbol": "AUD $",
+      "price": 1750
+    },
+    "bd": {
+      "currency_code": "bdt",
+      "cur_symbol": "BDT",
+      "price": 42500
+    },
+    "ca": {
+      "currency_code": "cad",
+      "cur_symbol": "CAD $",
+      "price": 1495
+    },
+    "eg": {
+      "currency_code": "egp",
+      "cur_symbol": "EGP",
+      "price": 9500
+    },
+    "eu": {
+      "currency_code": "eur",
+      "cur_symbol": "€",
+      "price": 995
+    },
+    "gb": {
+      "currency_code": "gbp",
+      "cur_symbol": "£",
+      "price": 995
+    },
+    "in": {
+      "currency_code": "inr",
+      "cur_symbol": "₹",
+      "price": 35000
+    },
+    "ke": {
+      "currency_code": "kes",
+      "cur_symbol": "KES",
+      "price": 55000
+    },
+    "lk": {
+      "currency_code": "lkr",
+      "cur_symbol": "LKR",
+      "price": 79500
+    },
+    "ma": {
+      "currency_code": "mad",
+      "cur_symbol": "MAD",
+      "price": 5500
+    },
+    "mv": {
+      "currency_code": "mvr",
+      "cur_symbol": "MVR",
+      "price": 7950
+    },
+    "my": {
+      "currency_code": "myr",
+      "cur_symbol": "RM",
+      "price": 2350
+    },
+    "ng": {
+      "currency_code": "ngn",
+      "cur_symbol": "₦",
+      "price": 159500
+    },
+    "np": {
+      "currency_code": "npr",
+      "cur_symbol": "NPR",
+      "price": 55000
+    },
+    "nz": {
+      "currency_code": "nzd",
+      "cur_symbol": "NZD $",
+      "price": 1750
+    },
+    "ph": {
+      "currency_code": "php",
+      "cur_symbol": "₱",
+      "price": 25950
+    },
+    "qa": {
+      "currency_code": "qar",
+      "cur_symbol": "QAR",
+      "price": 2750
+    },
+    "sa": {
+      "currency_code": "sar",
+      "cur_symbol": "SAR",
+      "price": 2750
+    },
+    "sg": {
+      "currency_code": "sgd",
+      "cur_symbol": "SGD $",
+      "price": 750
+    },
+    "tr": {
+      "currency_code": "try",
+      "cur_symbol": "TRY",
+      "price": 1950
+    },
+    "us": {
+      "currency_code": "usd",
+      "cur_symbol": "$",
+      "price": 1250
+    },
+    "za": {
+      "currency_code": "zar",
+      "cur_symbol": "ZAR",
+      "price": 10500
+    },
+    "default": {
+      "currency_code": "eur",
+      "cur_symbol": "€",
+      "price": 995
+    }
+  }

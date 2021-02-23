@@ -14,7 +14,6 @@ const objData=JSON.parse(jsonDAta)
 
 
 fs.writeFile('json1.json',jsonDAta,(err)=>{console.log(err);})
-
 fs.readFile('json1.json','utf-8',(err,data)=>{
     if(err)
     {
